@@ -1,18 +1,8 @@
 {
     "CA": [
         {
-<<<<<<< HEAD
-            "time": "Nov 5th",
-            "title": "Richmond"
-=======
-            "time": "Nov 5 - 8",
-            "title": "RICHMOND"
-<<<<<<< HEAD
->>>>>>> parent of dbe1a69... refilter
-        },
-        {
             "time": "9:00",
-            "title": "Breakfast"
+            "title": "Intro to 3D Modeling"
         },
         {
             "time": "10:00",
@@ -24,200 +14,25 @@
         },
         {
             "time": "1:00",
-            "title": "Lunch"
+            "title": "The Printed Lunch"
         },
         {
             "time": "2:00",
             "title": "Droning On"
         },
         {
-            "time": "7:00",
-            "title": "Dinner"
+            "time": "3:00",
+            "title": "Brain Hacking"
         },
         {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 6th",
-            "title": "Richmond"
-=======
->>>>>>> parent of dbe1a69... refilter
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Circuit Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Arduino Antics"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 7th",
-            "title": "Richmond"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Circuit Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Arduino Antics"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 8th",
-            "title": "Richmond"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Circuit Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Arduino Antics"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
+            "time": "4:30",
+            "title": "Make The Future"
         }
     ],
     "TX": [
-<<<<<<< HEAD
-        {
-            "time": "Nov 8th",
-            "title": "Charlottesville"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Circuit Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Brain Hacking"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 9th",
-            "title": "Charlottesville"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Circuit Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Brain Hacking"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 10th",
-            "title": "Charlottesville"
-=======
-       {
-            "time": "Nov 8 - 10",
-            "title": "CHARLOTTESVILLE"
-<<<<<<< HEAD
->>>>>>> parent of dbe1a69... refilter
-=======
->>>>>>> parent of dbe1a69... refilter
-        },
        {
             "time": "9:00",
-            "title": "Breakfast"
+            "title": "Make The Future"
         },
         {
             "time": "10:00",
@@ -229,36 +44,25 @@
         },
         {
             "time": "1:00",
-            "title": "Lunch"
+            "title": "The Printed Lunch"
         },
         {
             "time": "2:00",
             "title": "Droning On"
         },
         {
-            "time": "7:00",
-            "title": "Dinner"
+            "time": "3:00",
+            "title": "Intro to 3D Modeling"
         },
         {
-            "time": "8:30",
-            "title": "Late Night Fun"
+            "time": "4:30",
+            "title": "Arduino Antics"
         }
     ],
     "NY": [
-<<<<<<< HEAD
-        {
-            "time": "Nov 10th",
-            "title": "Chapel Hill"
-=======
        {
-            "time": "Nov 10 - 13",
-            "title": "CHAPEL HILL"
-<<<<<<< HEAD
->>>>>>> parent of dbe1a69... refilter
-        },
-        {
             "time": "9:00",
-            "title": "Breakfast"
+            "title": "Arduino Antics"
         },
         {
             "time": "10:00",
@@ -270,117 +74,19 @@
         },
         {
             "time": "1:00",
-            "title": "Lunch"
+            "title": "The Printed Lunch"
         },
         {
             "time": "2:00",
             "title": "Droning On"
         },
         {
-            "time": "7:00",
-            "title": "Dinner"
+            "time": "3:00",
+            "title": "Circuit Hacking"
         },
         {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 11th",
-            "title": "Chapel Hill"
-=======
->>>>>>> parent of dbe1a69... refilter
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Brain Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Intro to 3D Modeling"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 12th",
-            "title": "Chapel Hill"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Brain Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Intro to 3D Modeling"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
-        },
-        {
-            "time": "Nov 13th",
-            "title": "Chapel Hill"
-        },
-        {
-            "time": "9:00",
-            "title": "Breakfast"
-        },
-        {
-            "time": "10:00",
-            "title": "Brain Hacking"
-        },
-        {
-            "time": "11:30",
-            "title": "Intro to 3D Modeling"
-        },
-        {
-            "time": "1:00",
-            "title": "Lunch"
-        },
-        {
-            "time": "2:00",
-            "title": "Droning On"
-        },
-        {
-            "time": "7:00",
-            "title": "Dinner"
-        },
-        {
-            "time": "8:30",
-            "title": "Late Night Fun"
+            "time": "4:30",
+            "title": "Make The Future"
         }
     ]
 }
