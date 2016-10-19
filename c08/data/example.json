@@ -1,92 +1,104 @@
 {
     "CA": [
         {
-            "time": "9:00",
-            "title": "Intro to 3D Modeling"
+            "time": "City",
+            "title": "Richmond"
         },
         {
-            "time": "10:00",
-            "title": "Circuit Hacking"
+            "time": "I",
+            "title": "Breakfast"
         },
         {
-            "time": "11:30",
-            "title": "Arduino Antics"
+            "time": "II",
+            "title": "Driving"
         },
         {
-            "time": "1:00",
-            "title": "The Printed Lunch"
+            "time": "III",
+            "title": "Lunch"
         },
         {
-            "time": "2:00",
-            "title": "Droning On"
+            "time": "IV",
+            "title": "Activities"
         },
         {
-            "time": "3:00",
-            "title": "Brain Hacking"
+            "time": "V",
+            "title": "Activities"
         },
         {
-            "time": "4:30",
-            "title": "Make The Future"
+            "time": "VI",
+            "title": "Dinner"
+        },
+        {
+            "time": "VII",
+            "title": "Late Night"
         }
     ],
     "TX": [
        {
-            "time": "9:00",
-            "title": "Make The Future"
+            "time": "City",
+            "title": "Charlottesville"
         },
         {
-            "time": "10:00",
-            "title": "Circuit Hacking"
+            "time": "I",
+            "title": "Breakfast"
         },
         {
-            "time": "11:30",
-            "title": "Brain Hacking"
+            "time": "II",
+            "title": "Driving"
         },
         {
-            "time": "1:00",
-            "title": "The Printed Lunch"
+            "time": "III",
+            "title": "Lunch"
         },
         {
-            "time": "2:00",
-            "title": "Droning On"
+            "time": "IV",
+            "title": "Activities"
         },
         {
-            "time": "3:00",
-            "title": "Intro to 3D Modeling"
+            "time": "V",
+            "title": "Activities"
         },
         {
-            "time": "4:30",
-            "title": "Arduino Antics"
+            "time": "VI",
+            "title": "Dinner"
+        },
+        {
+            "time": "VII",
+            "title": "Late Night"
         }
     ],
     "NY": [
        {
-            "time": "9:00",
-            "title": "Arduino Antics"
+            "time": "City",
+            "title": "Chapel Hill"
         },
         {
-            "time": "10:00",
-            "title": "Brain Hacking"
+            "time": "I",
+            "title": "Breakfast"
         },
         {
-            "time": "11:30",
-            "title": "Intro to 3D Modeling"
+            "time": "II",
+            "title": "Driving"
         },
         {
-            "time": "1:00",
-            "title": "The Printed Lunch"
+            "time": "III",
+            "title": "Lunch"
         },
         {
-            "time": "2:00",
-            "title": "Droning On"
+            "time": "IV",
+            "title": "Activities"
         },
         {
-            "time": "3:00",
-            "title": "Circuit Hacking"
+            "time": "V",
+            "title": "Activities"
         },
         {
-            "time": "4:30",
-            "title": "Make The Future"
+            "time": "VI",
+            "title": "Dinner"
+        },
+        {
+            "time": "VII",
+            "title": "Late Night"
         }
     ]
 }
