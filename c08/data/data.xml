@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<events>
+  <event>
+    <location>Richmond, VA</location>
+    <date>Nov 5 - 8</date>
+    <map>img/map-ca.png</map>
+  </event>
+  <event>
+    <location>Charlottesville, VA</location>
+    <date>Nov 8 - 10</date>
+    <map>img/map-tx.png</map>
+  </event>
+  <event>
+    <location>Chapel Hill, NC</location>
+    <date>Nov 10 - 13</date>
+    <map>img/map-ny.png</map>
+  </event>
+</events>
